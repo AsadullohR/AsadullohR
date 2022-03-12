@@ -2,4 +2,4 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on related projects
-- 📫 How to reach me rakhimovasadullohs@gmail.com
+- 📫 How to reach me asad.rahimiy@gmail.com
