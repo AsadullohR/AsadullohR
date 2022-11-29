@@ -1,4 +1,4 @@
-<img src='./Frontend_Developer.png'></img>
+<img src='./Frontend Developer (React).png'></img>
 - 👋 Hi, I’m @AsadullohR
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently working as a React.js Developer
