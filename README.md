@@ -6,4 +6,3 @@
 - 📫 How to reach me asad.rahimiy@gmail.com
 - 🕸️ Website https://asadullohr.netlify.app/
 
-<iframe src="https://embed.lottiefiles.com/animation/82423"></iframe>
